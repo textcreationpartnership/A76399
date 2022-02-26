@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exceeding true relation, of a renowned victory obtained against the rebels on the 2. of May. 1642. On the north side of Tredarth. By the discreet councell, and heroicke courage of Captaine Stutfield, and Captaine Bartlet. Who with a very small number of men slew almost sixe thousand rebels. Being the copie of a letter sent to Mr. Dudley Ratcliffe, citizen, jnhabitant at Tower-hill. Whereunto is added, the copie of another letter sent to a gentleman of worth in London, and read in the House of Commons. Jt is ordered, that this be forthwith printed Hen. Elsynge, Cler. Parl. D. Com.</title>
+            <author>Benningfield, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76399</idno>
+            <idno type="STC">Wing B1889B</idno>
+            <idno type="STC">Thomason E146_17</idno>
+            <idno type="STC">ESTC R19681</idno>
+            <idno type="EEBO-CITATION">99860720</idno>
+            <idno type="PROQUEST">99860720</idno>
+            <idno type="VID">156658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exceeding true relation, of a renowned victory obtained against the rebels on the 2. of May. 1642. On the north side of Tredarth. By the discreet councell, and heroicke courage of Captaine Stutfield, and Captaine Bartlet. Who with a very small number of men slew almost sixe thousand rebels. Being the copie of a letter sent to Mr. Dudley Ratcliffe, citizen, jnhabitant at Tower-hill. Whereunto is added, the copie of another letter sent to a gentleman of worth in London, and read in the House of Commons. Jt is ordered, that this be forthwith printed Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Benningfield, W.</author>
+                  <author>R. P.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Reynor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter from Dublin signed: W. Benningfield.</note>
+                  <note>"Good news from Ireland" p. [7] signed: R.P.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>At head of title: Dublin, 9. May, 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bartlet, --  Captain --  Early works to 1800.</term>
+               <term>Stutfield, --  Captain --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156658:1" rendition="simple:additions"/>
+            <p>
+               <hi>Dublin, 9. May,</hi> 1642, An Exceeding true RELATION, OF A RENOWNED VICTORY Obtained againſt the Rebels on the 2. of <hi>May.</hi> 1642. On the North ſide of <hi>Tredarth.</hi>
+            </p>
+            <p>By the Diſcreet Councell, and Heroicke Cou<g ref="char:EOLhyphen"/>rage of Captaine <hi>Stutfield,</hi> and Captaine <hi>Bartlet.</hi>
+            </p>
+            <p>Who with a very ſmall number of men ſlew almoſt ſixe thouſand Rebels.</p>
+            <p>Being the Copie of a Letter ſent to Mr. <hi>Dudley Rat<g ref="char:EOLhyphen"/>cliffe,</hi> Citizen, Jnhabitant at Tower-Hill.</p>
+            <p>Whereunto is added, the Copie of another Letter ſent to a Gentleman of worth in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and read in the Houſe of COMMONS.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>It is Ordered, That this be forthwith Printed</p>
+                        <closer>
+                           <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>John Reyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156658:2"/>
+            <pb facs="tcp:156658:2"/>
+            <head>The Copie of a Letter ſent from <hi>Dublin</hi> to Mr. <hi>Dudley Ratcliffe,</hi> at <hi>Tower-hill</hi> in LONDON.</head>
+            <opener>
+               <salute>Loving friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He laſt Letter I ſent, dated <hi>Aprill</hi> the 18. J wrote to you of ſorrow and diſtreſſe, but now God bee thanked, our ſighs are converted to ſmiles, and our ſorrowes into rejoycing, for ſo it hath pleaſed Almighty God to bleſſe us in our late proceedings againſt the Rebels, that we are almoſt quite cleare of them in our parts the manner of our deli<g ref="char:EOLhyphen"/>very, J will relate at large as followeth.</p>
+            <p>On the 2. day of May, <hi>Mack-mahaun</hi> with 10000 Rebels came up againſt us we be<g ref="char:EOLhyphen"/>ing but 4000 foot and 800 horſe thinkin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to put us all to death, or flight, to prev<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> which, upon a decayd Caſtle that we h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we mounted 4. pieces of Ordnance; Like wiſe we ravl'd a block-houſe on the South ſide of our ſmall Campe, with two ſmall
+<pb facs="tcp:156658:3"/>
+Pieces, being all we had, likewiſe our men threw up Walls of Turffe and Earth to ſhel<g ref="char:EOLhyphen"/>ter them from the Rebels ſhot, and to give themſelves advantage to offend the Enemy.</p>
+            <p>Which being done, Captaine <hi>Stutfield</hi> gave ſtrict command that generall ſhouts and ac<g ref="char:EOLhyphen"/>clamations would be heard throughout the Army, the Trumpets, Drums, and Fiffes with their ſhrill Notes and pleaſant accents fill'd the Ecchoing Ayre, our Canons ratled, and with ſwifreſt ſpeed unto the Rebels, gave a Churliſh welcome, for our ſwift Bul<g ref="char:EOLhyphen"/>lets made a large Lane amongſt them, the Rebels hearing our joyfull acclamations, began to feare ſome Trechery, and as our mirth encreaſed ſo did their feare, which made them afraid to fall upon us, or to draw nigher for feare the ground was un<g ref="char:EOLhyphen"/>dermined.</p>
+            <p>Wherefore they tooke their ſtand, and with their beſt ſpeed planted theirField pie<g ref="char:EOLhyphen"/>ces againſt our block-houſe, ſhooting very oft, though but to little purpoſe, for ſpight of all their Battries we continued our ſhouts and acclamations, in the mean time Captain <hi>Stutfield</hi> ſent out ſome Scouts in requeſt
+<pb facs="tcp:156658:3"/>
+of Captaine <hi>Bartlet,</hi> who was gone with 5. hundred men, to fetch in ſome proviſion.</p>
+            <p>Likewiſe he ſet ſtrong watches in their view, though not within their ſhot, to make them thinke our Forces greater then they were, that day being ſpent, the next day be<g ref="char:EOLhyphen"/>ing Tueſday, he gave Command that all of them that were in health ſhould faſt and Pray, which was with willingneſſe effected, likewiſe that Night Captayne <hi>Bart let</hi> came in unto us, bringing in proviſion, with which we were repleniſhed, our joy and ſhouts increaſing, the Rebels being amazed and having intelligence of our new-come Forces, reſolved that night to ſteale away, but to prevent that, we marcht out againſt them, charging them ſiercely, Captayne <hi>Stutfield</hi> with three Troops of Horſe, troop up unto their Faces and diſcharg'd, making ſuch breaches in their Main-Battalia, that <hi>Mack-Mahaun</hi> ſwore he was a Divell not a mortall man.</p>
+            <p>Our Foot likewiſe fired ſo faſt upon them that they fell to running, not to fighting, for in the ſpace of 4. houres there was ſlaine almoſt ſix thouſand of the Rebels, we ha<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:156658:4"/>
+loſt not above 2. hundred men, beſide ſome threeſcore maimed.</p>
+            <p>Captayne <hi>Bartlet</hi> ſeeing their Reare begin to ſlye, incouraged on his men, and uſd his utmoſt power to intercept their paſſage, which they ſeeing, (like deſperate Cowards) drew up their Ordnance, and diſcharg'd upon him all at one time, which made a breach amongſt our men, which ſo incen<g ref="char:EOLhyphen"/>ſed them to ſee their Comerades fall ſo faſt before them, ſo that they fell on like Divels never ceaſing till they had ſurpizd the Re<g ref="char:EOLhyphen"/>bels Ordnance, and diſcharged them againſt their Maſters, amongſt whome they did a fearefull execution, the Rebels immediate<g ref="char:EOLhyphen"/>ly tooke them to their heels, and we re<g ref="char:EOLhyphen"/>treated to our Quarters, thus was this great Victory obtained by the diſcreet Councell and undanted Courage of theſe Noble Commanders, of whoſe future explovts at my, next opportunity, I will acquaint you with. till which time <hi>J</hi> reſt.</p>
+            <closer>
+               <signed>Your Friend and Servant,
+<hi>VV, Benningfield.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156658:4"/>
+            <head>Good Newes from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Maſter <hi>Hawkredge,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have written by the two laſt Poſts, and having good Newes, I ſhall impart it unto you.</p>
+            <p>The laſt Saturday the Lord <hi>Moore</hi> and Sir <hi>Henry Titchburne</hi> ſallyed out of the Town, and fell upon the Enemies, and raiſ'd their Siege, ſlew about 350 of their mens, and tooke many of their chiefe Officers, and have relieved themſelves bravely, and tooke 150 of their Muskets, and a Field full of Pikes, we having loſt, as ſome aſtirme no men. Here are three of our Captaines come by Land, ſo that this Newes is true.</p>
+            <p>Upon Munday our Forces went out, 4000 Foot and 500 Horſe, they are already within 5. myles of <hi>Tredagb:</hi> by the way; Lievtenant Colonell <hi>Reade</hi> came into our men, and ſubmitted, if he had not done it, he could not have ſcapt, he is ſent hither,
+<pb facs="tcp:156658:5"/>
+and lodg'd in the Caſtle, I doe believe w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall now get good ſtore of Corne out of the Country, which will keepe the price from riſing. Our men are not expected home this weeke, pray God keepe them ſafe.</p>
+            <closer>
+               <signed>With my true love, I reſt:
+Your affection friend, <hi>R. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>It is this day Ordered, That this bee forthwith Printed</p>
+            <closer>
+               <signed>Hen. Elſynge, Cleric. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
